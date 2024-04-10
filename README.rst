@@ -50,7 +50,7 @@ On RHEL/CentOS::
     $ sudo yum install python-devel subversion-devel
 
 
-On macOS, we recommend installing Homebrew_ and then running:
+On macOS, we recommend installing Homebrew_ and then running::
 
     $ xcode-select --install
     $ brew install subversion
